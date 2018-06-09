@@ -1,2 +1,2 @@
 The first line of new file 1
-This is the second line
+This is cleared space
